@@ -4,7 +4,7 @@
 - 🔭 i’m currently working on <strong>my react projects</strong>
 </p>
 <p align="center">
-- 🌱 i’m currently learning <strong>typeScript</strong> and <strong>next.js</strong>
+- 🌱 i’m currently learning <strong>nodeJS</strong> and <strong>expressJS</strong>
 </p>
 <p align="center">
 - 📫 how to reach me <a href='mailto:ihsany98@gmail.com'>ihsany98@gmail.com</a>
